@@ -11,15 +11,12 @@ This project is a gas leakage detection system using the **MQ-5 gas sensor** and
 - **Automatic reset** after the gas leak is cleared
 
 ## Components Required
-- Arduino Uno/Nano
+- Arduino Uno
 - MQ-5 Gas Sensor
-- GSM Module (SIM800L/SIM900A)
+- GSM Module (SIM900A)
 - LCD Display (16x2) with I2C
 - Buzzer
 - Connecting Wires
-
-## Circuit Diagram
-(You can add a circuit diagram image here)
 
 ## Installation & Setup
 1. **Clone the Repository:**
@@ -51,7 +48,7 @@ This project is a gas leakage detection system using the **MQ-5 gas sensor** and
 
 ## License
 This project is open-source and licensed under the **MIT License**. Feel free to modify and use it for personal or educational purposes.
-
+For Commercial Purpose please contact me before using.
 ---
 
 Let me know if you need additional details or modifications!
