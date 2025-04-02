@@ -12,9 +12,9 @@ int sms_count = 0;
 const int max_sms_count = 2;
 
 const char* phone_numbers[] = {
-  "+917036768646",
-  "+917981297508",
-  "+919490784800"
+  "+917*********",
+  "+917*********",
+  "+919*********"
 };
 
 void setup() {
